@@ -1,0 +1,35 @@
+# Dulce Predicción 🍰
+
+## Descripción del proyecto
+
+Dulce Predicción es un proyecto de Machine Learning que busca ayudar a una tienda de postres a estimar cuántas unidades de cada producto debería preparar diariamente según la demanda.
+
+## Problema
+
+La tienda puede preparar demasiados postres y generar desperdicios, o preparar muy pocos y quedarse sin productos para sus clientes.
+
+## Objetivo
+
+Explorar el uso de Machine Learning para predecir la demanda de postres utilizando información histórica de ventas y variables como el día de la semana, los precios y las promociones.
+
+## Tecnologías utilizadas
+
+- Python
+- Google Colab
+- Pandas
+- Scikit-learn
+- Machine Learning
+
+## Desarrollo
+
+El proyecto incluye la preparación y el análisis de datos, el entrenamiento de un modelo de aprendizaje automático y el desarrollo de una solución que permita consultar predicciones.
+
+## Estado del proyecto
+
+Proyecto académico en desarrollo.
+
+## Integrantes
+
+- Mariana Avilés — Líder y desarrolladora.
+- Luis Narváez — Analista de datos.
+- Ana Zúñiga — Diseño y presentación.
